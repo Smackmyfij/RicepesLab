@@ -108,11 +108,11 @@
 		F9ABDB641F599954009FF5F9 /* RicepesLab */ = {
 			isa = PBXGroup;
 			children = (
+				F938225E1F599FEE00FCF1EE /* ViewControllers */,
 				F9E56A811F5C0294007F543D /* Model */,
 				F9E56A801F5C0135007F543D /* SupportingFiles */,
 				F93822661F59AF3700FCF1EE /* TableViewCells */,
 				F938225F1F59A01800FCF1EE /* Managers */,
-				F938225E1F599FEE00FCF1EE /* ViewControllers */,
 			);
 			path = RicepesLab;
 			sourceTree = "<group>";
